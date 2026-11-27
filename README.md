@@ -70,3 +70,7 @@ I want to be a leader who creates better leaders. I have worked in different env
 ## Languages
 
 English, Urdu
+
+## Resume
+
+📄 [Resume](https://tinyurl.com/vpr93c3)
