@@ -1,6 +1,6 @@
 # Farhan Shahid
 
-### Software Engineer
+### Senior Software Support Engineer | Technical Mentor at Netsmart
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhan2986-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan2986/)
 [![Email](https://img.shields.io/badge/Email-farhan2986%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farhan2986@gmail.com)
